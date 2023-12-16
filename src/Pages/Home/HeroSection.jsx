@@ -7,7 +7,7 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Andy </p>
           <h1 className="hero--section--title">
-            <span className="hero--section--title--color">Junior</span>{" "}
+            <span className="hero--section--title--color">Student</span>{" "}
             <br />
             Developer
           </h1>
@@ -18,7 +18,7 @@ export default function HeroSection() {
         </div>
         <button className="btn btn-primary">Get In Touch</button>
       </div>
-      <div className="hero--section-img">
+      <div className="hero--section--img">
         <img src="./img/hero_section.png" alt="Hero Section" />
       </div>
     </section>

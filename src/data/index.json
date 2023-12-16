@@ -1,0 +1,32 @@
+{
+    "skills": [
+        {
+            "id": "1", 
+            "src": "./img/product-chain-1.png", 
+            "title": "Front End", 
+            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+        },
+        {
+            "id": "2", 
+            "src": "./img/dataStructuresandAlgorithms.png", 
+            "title": "Data Structures and Algorithms", 
+            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+        },
+        {
+            "id": "3", 
+            "src": "./img/teamwork.png", 
+            "title": "Team Work", 
+            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+        },
+        {
+            "id": "4", 
+            "src": "./img/feather-pen-2.png", 
+            "title": "UI and UX", 
+            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+
+        }
+    ]
+}
