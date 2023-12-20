@@ -28,5 +28,24 @@
             "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
 
         }
+    ],
+    "portfolio": [
+        {
+            "id": "1", 
+            "src": "./img/pokemon-project-img.png", 
+            "title": "Pokemon Pokedex Website", 
+            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+
+
+        },
+        {
+            "id": "2", 
+            "src": "./img/wordle-project-img.png", 
+            "title": "Wordle remake", 
+            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+
+        }
     ]
 }
