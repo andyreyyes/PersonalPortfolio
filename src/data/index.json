@@ -4,28 +4,28 @@
             "id": "1", 
             "src": "./img/product-chain-1.png", 
             "title": "Front End", 
-            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+            "description": "Passionate front-end developer crafting immersive web experiences. Proficient in HTML, CSS, and JavaScript. Translating design into seamless, user-centric interfaces."
 
         },
         {
             "id": "2", 
             "src": "./img/output-onlinepngtools.png", 
-            "title": "Data Structures and Algorithms", 
-            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+            "title": "Data Structures & Algorithms", 
+            "description": "Expert at many different data structures and algorithms."
 
         },
         {
             "id": "3", 
             "src": "./img/teamworkresize.png", 
             "title": "Team Work", 
-            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+            "description": "Collaborative developer fostering teamwork. Efficient when working with teams."
 
         },
         {
             "id": "4", 
             "src": "./img/feather-pen-2.png", 
             "title": "UI and UX", 
-            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique"
+            "description": "Passionate UI/UX front-end developer creating seamless web experiences. Expert in HTML, CSS, and JavaScript. Translating designs into user-centric interfaces."
 
         }
     ],
@@ -34,8 +34,12 @@
             "id": "1", 
             "src": "./img/pokemon-project-img.png", 
             "title": "Pokemon Pokedex Website", 
-            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique",
-            "link": "View In Github"
+            "description": "This was my first personal project. I used React and CSS to create a website that shows information about the first generation of Pokemon. I got all the information from the PokeAPI. ",
+            "demo_text": "View Live Code Demo",
+            "demo_link": "https://youtu.be/Az5usmKWOqg",
+            "github_text": "View Github",
+            "github_link": ""
+
 
 
         },
@@ -43,8 +47,11 @@
             "id": "2", 
             "src": "./img/wordle-project-img.png", 
             "title": "Wordle remake", 
-            "description": "Lorem Ipsum dolor sit on in, consecetur adispicing elit. Suspenmdisse varius eim in eros elementum tristique",
-            "link": "View In Github"
+            "description": "This was a project that I worked with a team on. While it was an assignment for class, it was really helpful for teaching me how to work in teams in a large scale project. Created using Java and JavaFx.",
+            "demo_text": "View Live Code Demo",
+            "demo_link": "https://youtu.be/8BF2Vzi42lg",
+            "github_text": "View Github",
+            "github_link": ""
 
         }
     ]

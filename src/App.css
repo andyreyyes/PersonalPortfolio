@@ -375,7 +375,6 @@ h3 {
     flex: 1 0 0;
     background: #fff;
     box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
-    cursor: pointer;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
 }
@@ -400,6 +399,16 @@ h3 {
 }
 .portfolio--section--card:hover path {
     stroke: #006b6a;
+}
+.github--button--link {
+  text-decoration: none;
+}
+.live--demo--link {
+  text-decoration: none;
+}
+.different--link--section {
+  display: flex;
+  gap: 160px;
 }
 /* Portfolio Ends */
 

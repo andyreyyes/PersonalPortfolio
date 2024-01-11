@@ -8,8 +8,8 @@ export default function AboutMe() {
                 <div className="hero--section--content">
                     <p className="section--title">About</p>
                     <h1 className="skills-section--heading">About Me</h1>
-                    <p className="hero--section-description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid ullam ea vero, tenetur rem quia minima. Provident ea cum, aspernatur ratione perferendis quos dolor nam maxime labore, harum optio modi.</p>
-                    <p className="hero--section-description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid ullam ea vero, tenetur rem quia minima. Provident ea cum, aspernatur ratione perferendis quos dolor nam</p>
+                    <p className="hero--section-description">While being a student at the Universtiy of Arizona, I am currently a server at Silver Saddle Steak House. I am pursing a coding Internship. </p>
+                    <p className="hero--section-description">I am pursing a coding Internship because I am very excited to get my first work experience as an engineer. You can contact me at <b>andrew.reyes52012@gmail.com</b></p>
                 </div>
             </div>
         </section>
