@@ -34,11 +34,11 @@
             "id": "1", 
             "src": "./img/pokemon-project-img.png", 
             "title": "Pokemon Pokedex Website", 
-            "description": "This was my first personal project. I used React and CSS to create a website that shows information about the first generation of Pokemon. I got all the information from the PokeAPI. ",
+            "description": "This was my first personal project. I used React and CSS to create a website that shows information about the first generation of Pokemon. All the information was obtained from the open PokeAPI. ",
             "demo_text": "View Live Code Demo",
             "demo_link": "https://youtu.be/Az5usmKWOqg",
             "github_text": "View Github",
-            "github_link": ""
+            "github_link": "https://github.com/andyreyyes/2023summerproject"
 
 
 
@@ -51,7 +51,7 @@
             "demo_text": "View Live Code Demo",
             "demo_link": "https://youtu.be/8BF2Vzi42lg",
             "github_text": "View Github",
-            "github_link": ""
+            "github_link": "https://github.com/andyreyyes/WordleRemakeRepo"
 
         }
     ]

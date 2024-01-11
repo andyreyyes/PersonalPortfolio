@@ -63,8 +63,9 @@ export default function MyPortfolio() {
                 </svg>
               </p>
               </Link>
+              <Link to={item.github_link} className="live--demo--link">
               <p className="text-sm portfolio--link">
-                {item.link}
+                {item.github_text}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -81,6 +82,7 @@ export default function MyPortfolio() {
                   />
                 </svg>
               </p>
+              </Link>
               </div>
             </div>
           </div>
