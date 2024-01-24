@@ -10,7 +10,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading"> My Portfolio</h2>
         </div>
         <div>
-          <Link to={"https://github.com/andyreyyes"} className="github--button--link">
+          <Link to={"https://github.com/andyreyyes"} className="github--button--link" target="_new">
             <button className="btn btn-github">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -43,7 +43,7 @@ export default function MyPortfolio() {
                 <p className="text-md">{item.description}</p>
               </div>
               <div className="different--link--section">
-              <Link to={item.demo_link} className="live--demo--link">
+              <Link to={item.demo_link} className="live--demo--link" target="_new">
               <p className="text-sm portfolio--link">
                 {item.demo_text}
                 <svg
@@ -63,7 +63,7 @@ export default function MyPortfolio() {
                 </svg>
               </p>
               </Link>
-              <Link to={item.github_link} className="live--demo--link">
+              <Link to={item.github_link} className="live--demo--link" target="_new">
               <p className="text-sm portfolio--link">
                 {item.github_text}
                 <svg

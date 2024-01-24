@@ -16,12 +16,12 @@ export default function HeroSection() {
             <br /> pursuing a BS in Computer Science.
           </p>
         </div>
-          <Link to={`https://www.linkedin.com/in/andrew-reyes-158307290`}>
+          <Link to={`https://www.linkedin.com/in/andrew-reyes-158307290`} target="_blank">
           <button className="btn btn-primary">Get In Touch</button>
           </Link>
         </div>
       <div className="hero--section--img">
-        <img src="./img/hero_section_resize.png" alt="Hero Section" />
+        <img src="./img/hero_section_pt100.png" alt="Hero Section" />
       </div>
     </section>
   );
