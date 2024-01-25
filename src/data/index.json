@@ -20,13 +20,6 @@
             "title": "Team Work", 
             "description": "Embraces teamwork, team player who can also work independent."
 
-        },
-        {
-            "id": "4", 
-            "src": "./img/feather-pen-2.png", 
-            "title": "UI and UX", 
-            "description": "Passionate UI/UX front-end developer creating seamless web experiences. Expert in HTML, CSS, and JavaScript. Translating designs into user-centric interfaces."
-
         }
     ],
     "portfolio": [
@@ -34,7 +27,7 @@
             "id": "1", 
             "src": "./img/pokemon-project-img.png", 
             "title": "Pokemon Pokedex Website", 
-            "description": "This was my first personal project. I used React and CSS to create a website that shows information about the first generation of Pokemon. All the information was obtained from the open PokeAPI. ",
+            "description": "Diving into web development, this project used React and CSS to format and organize Pokemon data that was consumed from the open source REST PokeAPI.",
             "demo_text": "View Live Code Demo",
             "demo_link": "https://youtu.be/Az5usmKWOqg",
             "github_text": "View Github",
@@ -47,7 +40,7 @@
             "id": "2", 
             "src": "./img/wordle-project-img.png", 
             "title": "Wordle remake", 
-            "description": "This was a project that I worked with a team on. While it was an assignment for class, it was really helpful for teaching me how to work in teams in a large scale project. Created using Java and JavaFx.",
+            "description": "This project was a functional remake of the popular game Wordle. With this project, I got experience working collaboratively with a team all writing code in the same repo and sharpened my Git skills, while also learning more about how to delegate programming tasks between teammates. The app was built with Java and uses JavaFx for the UI.",
             "demo_text": "View Live Code Demo",
             "demo_link": "https://youtu.be/8BF2Vzi42lg",
             "github_text": "View Github",
